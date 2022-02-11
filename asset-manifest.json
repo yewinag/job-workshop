@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jobs-web-app/static/css/main.59a19f11.css",
-    "main.js": "/jobs-web-app/static/js/main.d26a88ef.js",
-    "static/js/377.2402a974.chunk.js": "/jobs-web-app/static/js/377.2402a974.chunk.js",
-    "service-worker.js": "/jobs-web-app/service-worker.js",
-    "static/media/avatar.svg": "/jobs-web-app/static/media/avatar.c758d4076ce7f277d5b8cfa5e6e7dee5.svg",
-    "static/media/logo.svg": "/jobs-web-app/static/media/logo.8aa9a46e210505a0c9dc074e2bd22808.svg",
-    "static/media/thirdjoblogo.svg": "/jobs-web-app/static/media/thirdjoblogo.7a348cd1369956be5a2d5a7a10b58d94.svg",
-    "static/media/fourthjoblogo.svg": "/jobs-web-app/static/media/fourthjoblogo.3a5c0db63f06520358066ffa1db178db.svg",
-    "static/media/firstjoblogo.svg": "/jobs-web-app/static/media/firstjoblogo.d624c6ffe92ac26ab28493672cc0d710.svg",
-    "index.html": "/jobs-web-app/index.html",
-    "static/media/location.svg": "/jobs-web-app/static/media/location.4fc8a2fd39de132c0aa577889d7fb044.svg",
-    "static/media/secondjoblogo.svg": "/jobs-web-app/static/media/secondjoblogo.965155910b1d62efe18413f7c45d1b03.svg",
-    "static/media/checkmarkNotVerified.svg": "/jobs-web-app/static/media/checkmarkNotVerified.9d560847c996ca85589642417847cde0.svg",
-    "static/media/checkmarkVerified.svg": "/jobs-web-app/static/media/checkmarkVerified.69b6e76165a111ab2be9a0ae20e0e91b.svg",
-    "static/media/downArrow.svg": "/jobs-web-app/static/media/downArrow.c26b48220758dd8a7fbbf3d14425485d.svg",
-    "main.59a19f11.css.map": "/jobs-web-app/static/css/main.59a19f11.css.map",
-    "main.d26a88ef.js.map": "/jobs-web-app/static/js/main.d26a88ef.js.map",
-    "377.2402a974.chunk.js.map": "/jobs-web-app/static/js/377.2402a974.chunk.js.map"
+    "main.css": "/job-workshop/static/css/main.425f75e1.css",
+    "main.js": "/job-workshop/static/js/main.ecd9e3a9.js",
+    "static/js/377.2402a974.chunk.js": "/job-workshop/static/js/377.2402a974.chunk.js",
+    "service-worker.js": "/job-workshop/service-worker.js",
+    "static/media/avatar.svg": "/job-workshop/static/media/avatar.c758d4076ce7f277d5b8cfa5e6e7dee5.svg",
+    "static/media/logo.svg": "/job-workshop/static/media/logo.8aa9a46e210505a0c9dc074e2bd22808.svg",
+    "static/media/thirdjoblogo.svg": "/job-workshop/static/media/thirdjoblogo.7a348cd1369956be5a2d5a7a10b58d94.svg",
+    "static/media/fourthjoblogo.svg": "/job-workshop/static/media/fourthjoblogo.3a5c0db63f06520358066ffa1db178db.svg",
+    "static/media/firstjoblogo.svg": "/job-workshop/static/media/firstjoblogo.d624c6ffe92ac26ab28493672cc0d710.svg",
+    "index.html": "/job-workshop/index.html",
+    "static/media/location.svg": "/job-workshop/static/media/location.4fc8a2fd39de132c0aa577889d7fb044.svg",
+    "static/media/secondjoblogo.svg": "/job-workshop/static/media/secondjoblogo.965155910b1d62efe18413f7c45d1b03.svg",
+    "static/media/checkmarkNotVerified.svg": "/job-workshop/static/media/checkmarkNotVerified.9d560847c996ca85589642417847cde0.svg",
+    "static/media/checkmarkVerified.svg": "/job-workshop/static/media/checkmarkVerified.69b6e76165a111ab2be9a0ae20e0e91b.svg",
+    "static/media/downArrow.svg": "/job-workshop/static/media/downArrow.c26b48220758dd8a7fbbf3d14425485d.svg",
+    "main.425f75e1.css.map": "/job-workshop/static/css/main.425f75e1.css.map",
+    "main.ecd9e3a9.js.map": "/job-workshop/static/js/main.ecd9e3a9.js.map",
+    "377.2402a974.chunk.js.map": "/job-workshop/static/js/377.2402a974.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59a19f11.css",
-    "static/js/main.d26a88ef.js"
+    "static/css/main.425f75e1.css",
+    "static/js/main.ecd9e3a9.js"
   ]
 }
