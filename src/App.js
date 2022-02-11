@@ -15,6 +15,7 @@ import WorkDesc from './components/WorkDesc';
 import FilterBtn from './components/FilterBtn';
 
 function App() {
+  const param = useParams();
   return (
     <Router>
       <WorkContextProvider>
@@ -28,10 +29,16 @@ function App() {
                 <section className="md:flex md:justify-between xl:basis-5/6 w-full items-start xl:items-stretch">
                   <WorkList cssCLass="lg:w-sm md:w-2/5" />
                   <WorkDesc cssClass="md:ml-6 lg:ml-8 lg:w-desc md:w-3/5 absolute top-0 left-0 h-full bg-dark md:static" />
-                  {/* <Routes> */}
-                  {/* <Route index element={param.slug} /> */}
-                  {/* <Route path="/job/:slug" element={param.slug}></Route> */}
-                  {/* </Routes> */}
+                  <Routes>
+                    <Route
+                      path="/"
+                      element={<Navigate to="/worksite-react-app" />}
+                    />
+                    <Route
+                      path="/worksite-react-app/:slug"
+                      element={param.slug}
+                    ></Route>
+                  </Routes>
                 </section>
               </div>
             </Container>
